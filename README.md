@@ -42,5 +42,5 @@ pip install -r requirements.txt
 
 ### 4. Executar o Projeto
 ```bash
-python src/main.py
+python main.py
 ```
