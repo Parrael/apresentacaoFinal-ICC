@@ -6,7 +6,7 @@ O trabalho consiste em uma apresentação no estilo seminário com o objetivo de
 **GRUPO:** \
         Matheus Herberts - matheus.herberts@usp.br \
         Raphael Parra - o.parra@usp.br \
-        Vinícus França - viniciusfranca1078@usp.br \ \
+        Vinícus França - viniciusfranca1078@usp.br 
 
 ## Como Clonar o Repositório
 
