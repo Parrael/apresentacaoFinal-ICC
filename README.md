@@ -1,5 +1,5 @@
 # Apresentação Final De ICC1
-Repositório para organização do último trabalho de ICC
+Repositório para organização do último trabalho de Introdução à Ciência da Computação.
 
 O trabalho consiste em uma apresentação no estilo seminário com o objetivo de apresentar uma biblioteca de Python à nossa escolha. Decidimos falar sobre a **Pygame**.
 
